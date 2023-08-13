@@ -1,0 +1,77 @@
+---
+title: "Appendix"
+author: "220250711"
+date: "2023-08-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Appendix D- Participant raw qualitative responses
+Taken to the side and subbed off, although its rare someone sustains a head injury  
+The games stops and they are taken off the pitch to be examined by the first aid  
+Quick check of individual, may consult first aid if deemed necessary  
+check if they're feeling okay, if yes they can continue playing  
+Normally the game is stopped and the player is assessed by the ref. If they are on the floor for a prolonged period of time, the medic will come on to check. The player would be taken off and examined. When this has happened, they then decide if the player can come back on or not
+Game is stopped, the person is checked on to see if they are alright, they will either carry on if theyre fine or sot out the rest of the game  
+Mostly carry on playing if they can  
+Player is removed from the pitch and has a HIA from the physio   
+The game stops for both teams if the injury looks severe.  
+medical help is immediately called  
+The game is paused, person is checked by referee and game resumes  
+NO  
+There is a few medics at all games who will check you over and decide what steps should be taken. eg play on, rest for a bit, stop playing, go to doctor or A&E  
+Taking some time out if the person is affected by the hit, see if it's okay to continue after a while  
+WE take a break and medical evaluates them if it looks like a hard hit. They get sidelined  
+Fell down on the ice and hurt his head.  
+look after me  
+The game stops while the player is checked out. They usually sit out for the rest of the game and do some concussion testing  
+First aiders will check on them, they will be taken off the pitch/out of training
+they fall and loose consciousness  
+The game stops and we check if theyâ€™re okay, usually we carry on playing if they say that theyâ€™re fine but Iâ€™m football as soon as someone goes down for their head everything stops  
+Lifeguard would administer first aid. Sent to hospital if necessary.  
+Checked by the coach - come off if they are showing signs of concussion  
+Referee stops the game. Medical staff and referee carry out checks on the player.  
+The referee pulls up the game and if the player feels well to carry on then they will
+players have a mandatory time out, where they undergo an initial assessment for immediate signs of concussion, if uncertain or signs, they are sent for medical attention, and do not rejoin the match / game. If it is found they have signs of concussion after a medical assessment they are not allowed to join team practice or participate in matches until they have medical sign off. (GP or other) they can still attend sessions, to remain part of the team, but are not allowed to play, iif there are no signs of concussion after initial assessment and monitoring for15 minutes they are allowed to rejoin the game at the discretion of the match officials and team captains, coaches and the player themselves  
+Medical attention is given (apply ice), check ins with athletes following injury and attend hospital of injury has had significant impact  
+physio comes over and assesses them  
+they get dizzy, fall uncocniousness, non-responsive  
+Asked to take rest. If it's major incident taken to the infirmary immediately and then to the hospital.  
+First aid  
+We all stop and a first aid trained member will assess the situation and provide further guidance
+Unknown, medics on hand at home games  
+Stay on the floor, stop the game, get our coach or if the other team has a physio to check them over, of fine then carry on if not then taken off and not allowed to play again
+doesn't usually occur  
+Everyone takes five to regroup, injured person gets assessed ands sits out  
+no  
+ice  
+A minor assessment and if the player feels ok to carry on, they will. But often playing partners will advise them to stop.  
+We all make sure if she is ok and if it is bad, we send her/or call the doctor.  
+nothing  
+I don't think I was told not to play. Just to rest for the day  
+couple of days  
+2 weeks  
+21 days  
+2 months  
+1-3 weeks depending on severity  
+A week  
+no  
+2 weeks  
+8  
+6 weeks  
+no  
+don't remember  
+A week  
+No  
+14 days  
+5 days  
+2 weeks  
+0  
+1week  
+2 weeks  
+7 days  
+
+
